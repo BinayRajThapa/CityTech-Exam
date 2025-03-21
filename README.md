@@ -15,7 +15,7 @@ For the array `[1, 20, 6, 4, 5]`, the program outputs:
 
 Total inversions: 5
 
-![Program Output](./output.png)
+![Program Output](./Output.png)
 
 This indicates that there are 5 pairs where `arr[i] > arr[j]` and `i < j`.
 
